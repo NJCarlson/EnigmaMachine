@@ -1,0 +1,14 @@
+C:\Users\nick\source\repos\EnigmaMachine\bin\Release\netcoreapp3.1\EnigmaMachine.exe
+C:\Users\nick\source\repos\EnigmaMachine\bin\Release\netcoreapp3.1\EnigmaMachine.deps.json
+C:\Users\nick\source\repos\EnigmaMachine\bin\Release\netcoreapp3.1\EnigmaMachine.runtimeconfig.json
+C:\Users\nick\source\repos\EnigmaMachine\bin\Release\netcoreapp3.1\EnigmaMachine.runtimeconfig.dev.json
+C:\Users\nick\source\repos\EnigmaMachine\bin\Release\netcoreapp3.1\EnigmaMachine.dll
+C:\Users\nick\source\repos\EnigmaMachine\bin\Release\netcoreapp3.1\EnigmaMachine.pdb
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.Form1.resources
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.csproj.GenerateResource.cache
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.AssemblyInfoInputs.cache
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.AssemblyInfo.cs
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.csproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.dll
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.pdb
+C:\Users\nick\source\repos\EnigmaMachine\obj\Release\netcoreapp3.1\EnigmaMachine.genruntimeconfig.cache
