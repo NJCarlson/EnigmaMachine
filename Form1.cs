@@ -29,7 +29,7 @@ namespace EnigmaMachine
             //comboBox1.Items.Insert(1, "");
         }
 
-        //ENCRYPTION:
+        //DECRYPTION:
         private void button2_Click(object sender, EventArgs e)
         {
             switch (comboBox1.SelectedIndex)
@@ -72,6 +72,52 @@ namespace EnigmaMachine
                         default:
                     break;
                     
+            }
+        }
+
+        //ENCRYPTION:
+        private void button1_Click(object sender, EventArgs e)
+        {
+            switch (comboBox1.SelectedIndex)
+            {
+                case 0:
+                    {
+                        string alphabet = " [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                        string key = textBox1.Text;
+                        string encrypted_message = richTextBox1.Text;
+                        string decrypted_message = "";
+
+                        for (int i = 0; i < decrypted_message.Length; i++)
+                        {
+                            int position = -1;
+
+                            for (int j = 0; j < key.Length; j++)
+                            {
+                                if (alphabet[j] == decrypted_message[i])
+                                {
+                                    position = j;
+                                    break;
+                                }
+                            }
+
+                            if (position != -1)
+                            {
+                                char new_char = key[position];
+                                encrypted_message += new_char;
+                            }
+                            else
+                            {
+                                encrypted_message += decrypted_message[i];
+                            }
+                        }
+
+                        richTextBox1.Text = encrypted_message;
+
+                    }
+                    break;
+                    default:
+                    break;
+
             }
         }
     }
