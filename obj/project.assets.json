@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nick\\source\\repos\\EnigmaMachine\\EnigmaMachine.csproj",
+      "projectUniqueName": "D:\\Development\\Misc\\EnigmaMachine\\EnigmaMachine.csproj",
       "projectName": "EnigmaMachine",
-      "projectPath": "C:\\Users\\nick\\source\\repos\\EnigmaMachine\\EnigmaMachine.csproj",
+      "projectPath": "D:\\Development\\Misc\\EnigmaMachine\\EnigmaMachine.csproj",
       "packagesPath": "C:\\Users\\nick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nick\\source\\repos\\EnigmaMachine\\obj\\",
+      "outputPath": "D:\\Development\\Misc\\EnigmaMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
