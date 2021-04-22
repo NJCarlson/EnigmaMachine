@@ -84,8 +84,8 @@ namespace EnigmaMachine
                     {
                         string alphabet = " [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
                         string key = textBox1.Text;
-                        string encrypted_message = richTextBox1.Text;
-                        string decrypted_message = "";
+                        string encrypted_message = "";
+                        string decrypted_message = richTextBox1.Text;
 
                         for (int i = 0; i < decrypted_message.Length; i++)
                         {
